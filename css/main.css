@@ -1,1 +1,95 @@
 /* Los estilos de tu proyecto */
+*{
+	padding: 0;
+	margin:0;
+	font-family: 'Lato', sans-serif;
+	overflow: scroll;
+}
+.navbar-default{
+	margin: 0;
+	padding: 1%;
+	background-color: white;
+}
+.navbar-brand img{
+	padding-left: 10%;
+	width: 60%;
+	height: auto;
+}
+.navbar-right{
+	font-size:0.8em;
+}
+#background-portada{
+	background-image: url(../../lab-car-boilerplate/assets/images/taxi.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.square-text{
+	/*display:block; */
+	background-color: #ffbf43;
+}
+.square-text p{
+	color: white;
+	font-size: 15Px; 
+}
+#background-iphone{
+	background-color: #ffbf43;
+
+}
+.media-object{
+	margin: 16%;
+	width: 70%;
+	height: auto;
+}
+.phone-text h4 {
+	color: white;
+}	
+.phone-text p{
+	color: white;
+	text-align: justify;
+	vertical-align:right;
+}
+.colmedia{
+	border:2px solid white;
+	margin-top: 10vh;
+}
+#background-conductor{
+	background-image: url(../../lab-car-boilerplate/assets/images/conduce.jpg);
+	height: 70vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.square-conductor{
+	background-color: rgba(0,0,0,0.5);
+	height: 70vh;
+	
+}
+.square-conductor h4{
+	color: white;
+}	
+.square-conductor p{
+	color: white;
+
+}
+.color{
+	color: white;
+}
+#background-map{
+	background-color: #ffbf43;
+}
+.tarifas-input{
+	padding-top: 10%;
+}
+.map-img{
+	padding: 2vh;
+	border:2px solid white;	
+}
+#background-black{
+	background-color: #040406;
+}
+
+
+
+
