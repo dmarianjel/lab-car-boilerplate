@@ -89,6 +89,18 @@
 #background-black{
 	background-color: #040406;
 }
+#fa-icons{
+	color: white;
+	font-size: 110%;
+}
+.list-group li{
+	color: red;
+}
+.listFooter{
+	list-style-type: none;
+	background-color: transparent;
+	border: hidden;
+}
 
 
 
